@@ -1,0 +1,89 @@
+.block1 a {
+	color: #000;
+}
+.block2 {
+	background: black;
+	color: white;
+}
+.block2 h5 {
+    color: #99C1DA;
+}
+.block3 {
+	text-align: center;
+}
+.gaps {
+    margin: 20px 70px 20px 0;
+}
+.btn-default {
+    color: #fff;
+    background-color: #6B929B;
+    border-color: #6B929B;
+}
+.gap1 {
+    padding-top: 20px;
+}
+.gap2 {
+    margin-top: 80px;
+}
+.gap3 {
+    margin-top: 130px;
+}
+.btn-gap {
+    width: 161px;
+    margin: 30px;
+}
+.block3 {
+    background: #DBE2E5;
+}
+.imran_round {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    background: url(../img/imranrana2.png) no-repeat -40px 0; /* Параметры фона */
+    background-size: auto 165px; /* Высота фотографии равна высоте элемента */
+    margin-top: 40px;
+}
+.block5 {
+    background: #6B929B;
+    color: #fff;
+}
+.imran_form {
+    background: #5C7C81;
+    margin-top: 40px;
+}
+.btn-reserve {
+    font-size: 11px;
+    color: #fff;
+    border-radius: 6px;
+    border: 1px solid #fff;
+}
+.checkbox label {
+    margin-left: 0px;
+}
+form>input {
+    width: 100%;
+    border: none;
+    margin: 10px 0 10px 0;
+    background-color: #6B929B;
+    border-bottom: 1px solid #fff;
+    font-weight: bold;
+    color: #fff;
+}
+.block5>h3, .block5>p {
+    text-align: center;
+}
+.copyright {
+    background: #404041;
+    padding: 30px;
+} 
+.produded {
+    padding: 10px;
+    background: #000;
+}
+footer {
+    text-align: center;
+    color: #fff;
+}
+#url {
+    color: #fff;
+}
